@@ -1,6 +1,6 @@
 # ImageCaptioning
 
-Адрес проекта ImageCaptioning на гугл-диске: https://drive.google.com/drive/folders/19ZktG8m3PJ2hObWcYs0adUzOIXAQgAJR?usp=sharing
+Адрес проекта ImageCaptioning на гугл-диске: https://drive.google.com/drive/folders/1mTYLfMFt_G19LjLlx64Nk63fAOZJH6it?usp=sharing
 
 Адрес каталога на гугл-диске с дополнительными БОЛЬШИМИ файлами, использующимися в ноутбуке опционально («captions» и пропущенные через энкодеры InceptionV3 и Resnet50 картинки, полученные из MSCOCO2017, Flickr30k, а также GoogleNews-vectors-negative300.bin - эмбеддинги из Word2Vec): https://drive.google.com/drive/folders/1Ifme0Q3MQkAFEdflop4HERpFnYEDqngW?usp=sharing. Перечень и инструкция по использованию файлов - в TableResults.docx. Ноутбук работает с датасетом MSCOCO2014 без этих дополнительных файлов. 
 

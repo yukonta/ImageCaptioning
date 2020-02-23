@@ -1,11 +1,13 @@
 # ImageCaptioning
 
-Адрес проекта ImageCaptioning на гугл-диске: https://drive.google.com/drive/folders/1QsTeeWrYbGPP5pWZ2Xlddcpc65FM5GVz?usp=sharing
+Адрес проекта ImageCaptioning на гугл-диске: https://drive.google.com/drive/folders/19ZktG8m3PJ2hObWcYs0adUzOIXAQgAJR?usp=sharing
+
+Адрес каталога на гугл-диске с дополнительными БОЛЬШИМИ файлами, использующимися в ноутбуке опционально («captions» и пропущенные через энкодеры InceptionV3 и Resnet50 картинки, полученные из MSCOCO2017, Flickr30k, а также GoogleNews-vectors-negative300.bin - эмбеддинги из Word2Vec): https://drive.google.com/drive/folders/1Ifme0Q3MQkAFEdflop4HERpFnYEDqngW?usp=sharing. Перечень и инструкция по использованию файлов - в TableResults.docx. Ноутбук работает с датасетом MSCOCO2014 без этих дополнительных файлов. 
 
 В этом репозитории размещены файлы:
 1. yukonta_image_captionong.ipynb - ноутбук с выполненным заданием;
 
-2. TableResults.docx  - файл с подробным описанием результатов экспериментов.
+2. TableResults.docx  - файл с подробным описанием результатов экспериментов и .
 
 Проводились эксперименты как в соответствии с базовой частью задания, так и с вариативной:
 
